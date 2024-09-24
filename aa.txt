@@ -1,3 +1,4 @@
 learning git is crazy
 this was all i learned today
 okayyyyy
+IF PUSH IS USED: CHANGES MADE IN VSCODE WILL BE PUSHED TO GITHUB
