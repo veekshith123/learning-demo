@@ -1,1 +1,2 @@
 practicing merge commands
+Now practicing stashing
